@@ -1,6 +1,6 @@
 [user]
-»···name = Vladyslav Poliukh
-»···email = v.polyukh@samsung.com
+»···name = Test Test
+»···email = test@test.com
 [merge]
 »···tool = vimdiff
 [diff]
