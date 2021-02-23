@@ -1,12 +1,12 @@
 [user]
-»···name = Test Test
-»···email = test@test.com
+    name = Test Test
+    email = test@test.com
 [merge]
-»···tool = vimdiff
+    tool = vimdiff
 [diff]
     tool = vimdiff
 [core]
-    editor = vim·
+    editor = vim
     autocrlf = false
     safecrlf = true
     pager = less -x1,5
@@ -45,4 +45,4 @@
 [push]
     default = simple
 [credential]
-»···helper = store
+    helper = store
